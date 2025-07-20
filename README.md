@@ -1,6 +1,5 @@
 # Top 200 Frontend Interview Questions
 
-- [Create a Flat version of a nested Object | Breadcrumbs Computation | JavaScript Interview Question ](https://devtools.tech/questions/s/create-a-flat-version-of-a-nested-object-or-breadcrumbs-computation-or-javascript-interview-question---qid---yN4cWT1QDU09zi78GYq1)
 - [How to build a custom timer hook in React.js? | useTimer | JavaScript Interview Question](https://devtools.tech/questions/s/how-to-build-a-custom-timer-hook-in-react-js-or-usetimer-or-javascript-interview-question---qid---H5KlkIeowa1LrIn1mSN5)
 - [Implement Debounce Function | Flipkart UI - JavaScript Interview Questions](https://devtools.tech/questions/s/implement-debounce-function-or-flipkart-ui-javascript-interview-questions---qid---CVSyd8uTdvVt1l2YcAcq)
 - [Implement Accordion Component in React.js | JavaScript Interview Question](https://devtools.tech/questions/s/implement-accordion-component-in-react-js-or-javascript-interview-question---qid---3pRN4mOqn69FJ94mrh1A)
@@ -8,6 +7,7 @@
 - [How to implement DOM like structure tree!? | Frontend Interview Question | Advanced JavaScript](https://devtools.tech/questions/s/how-to-implement-dom-like-structure-tree-or-frontend-interview-question-or-advanced-javascript---qid---JizqCh1froQTr91WNEhJ)
 - [Build Country Capital Game | Microsoft Frontend Interview Question | JavaScript | React.js](https://devtools.tech/questions/s/build-country-capital-game-or-microsoft-frontend-interview-question-or-javascript-or-react-js---qid---yPb5g7MLCSf6j2F3qjqj)
 - [How to build a File Explorer? Atlassian Frontend Machine Coding Round Question | JavaScript Interview Question | React.js](https://devtools.tech/questions/s/how-to-build-a-file-explorer-atlassian-frontend-machine-coding-round-question-or-javascript-interview-question-or-react-js---qid---i2WQCZkIdpwGp2tG1LXJ)
+- [How to create a flat version of a deeply nested array?](https://devtools.tech/questions/s/how-to-create-a-flat-version-of-a-deeply-nested-array-programming-interview-question---qid---l5Qx4LJ7glelCkIxQjXB)
 - [Company Structure Validator](https://devtools.tech/questions/s/company-structure-validator---qid---UhGdKfJaM4a7VuQsFRV3)
 - [Compare Semantic Version](https://devtools.tech/questions/s/compare-semantic-versions---qid---MpUr21sj14SgVcWFVs2L)
 - [Word Search Game](https://devtools.tech/questions/s/word-search-game---qid---p8uXcAfTdSZU5C4bNkLH)
@@ -184,7 +184,7 @@
 - [How would you implement createStore function from Redux?](https://devtools.tech/questions/s/how-would-you-implement-createstore-function-from-redux---qid---gDe2UTYeJi0ptBXfuLXL)
 - [What would be the output? [Object Destructuring]](https://devtools.tech/questions/s/what-would-be-the-output-object-destructuring---qid---4Eq7UEhC4KZxnYZOFOjN)
 - [How to create a function calculator? [Programming Interview Question]](https://devtools.tech/questions/s/how-to-create-a-function-calculator-programming-interview-question---qid---EXKZ79sIBPn1T5EhP4qv)
-- [How to create a flat version of a deeply nested array? [Programming Interview Question]](https://devtools.tech/questions/s/how-to-create-a-flat-version-of-a-deeply-nested-array-programming-interview-question---qid---l5Qx4LJ7glelCkIxQjXB)
+- [Create a Flat version of a nested Object | Breadcrumbs Computation | JavaScript Interview Question ](https://devtools.tech/questions/s/create-a-flat-version-of-a-nested-object-or-breadcrumbs-computation-or-javascript-interview-question---qid---yN4cWT1QDU09zi78GYq1) 
 - [What would be the output of the following code snippet? [Prototypes & Scopes]](https://devtools.tech/questions/s/what-would-be-the-output-of-the-following-code-snippet-prototypes-and-scopes---qid---nasA1sfUZJbMGNMmGyKL)
 - [What would be the output of the following code snippet? [ES6 Classes]](https://devtools.tech/questions/s/what-would-be-the-output-of-the-following-code-snippet-es6-classes---qid---212yoqEY48ZvHTpK2zQI)
 - [How to implement the Increment function?](https://devtools.tech/questions/s/how-to-implement-the-increment-function---qid---smTgW9CCcPfErTTAbfcH)
